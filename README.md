@@ -57,6 +57,7 @@ Compare original and generated images.
 Document differences and improvements.
 
 Output:
+https://1drv.ms/w/c/C88B3B4A3313A0B7/IQAZSrl11FdDRoEI-KaVBPFxATRys8gyHSTOrvbfj_hllBo?e=b0g0p0
 
 Result:
 Thus, the original image was successfully reproduced using prompt engineering techniques and AI image generation tools.
